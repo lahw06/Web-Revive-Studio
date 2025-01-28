@@ -183,6 +183,7 @@
     }
     h1{
         top:50% !important;
+        z-index:20 !important;    
     }
     .faq-main {
         margin-top: 770px;
