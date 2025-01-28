@@ -834,7 +834,7 @@ form#contactForm button:hover {
         display: none;
     }
     .navbar .logo {
-        margin-left: 20px;
+        margin-left: 0px;
     }
 
     
@@ -851,7 +851,7 @@ form#contactForm button:hover {
     }
 
     .logo{
-        margin-left: 20px !important;
+        margin-left: 0px !important;
         padding-left: 0 !important;
     }
     h2 {
