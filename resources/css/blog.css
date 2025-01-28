@@ -37,9 +37,11 @@
         font-size: 1.6em !important;
         left:47% !important;
         top:46% !important;
+        z-index: 20 !important;
     }
     h2{
         top:55% !important;
+        z-index: 20 !important;
     }
    .blog-main{
     margin-left: 20px;
