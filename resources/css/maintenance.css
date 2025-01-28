@@ -486,10 +486,12 @@ h1{
         margin-left: 60px !important;
         font-size: 1.8em !important;
         width:80% !important;
+        z-index:20 !important;    
     }
     h2{
         margin-top: 60px !important;
         margin-left: 0px !important;
+        z-index:20 !important;    
     }
     .web-design-intro2{
         display: block;
