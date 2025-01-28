@@ -303,10 +303,12 @@ div .section-content p{
     width:80% !important;
     left:47% !important;
     top:45% !important;
+       z-index: 20 !important;
    }
    h2{
     font-size: 1.6em !important;
     top: 55% !important;
+       z-index: 20 !important;
    }
    .mission-vision2 {
     display: block;
