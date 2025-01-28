@@ -840,7 +840,7 @@ form#contactForm button:hover {
     
     .title {
         font-size: 1.8rem;
-        width: 80%;
+        width: 100%;
         top:40%;
         left:33%;
         text-align: left;
@@ -863,7 +863,7 @@ form#contactForm button:hover {
         display:none;
     }
     .logo{
-        margin-left: 45px !important;
+        margin-left: 20px !important;
         padding-left: 0 !important;
     }
   
