@@ -839,15 +839,15 @@ form#contactForm button:hover {
 
     
     .title {
-        font-size: 1.8rem;
+        font-size: 1.7rem;
         width: 100%;
         top:40%;
-        left:33%;
+        left:36%;
         text-align: left;
         padding-top:0;
     }
     h1 u{
-        font-size: 1.8em !important;
+        font-size: 1.7em !important;
     }
 
     .logo{
@@ -863,7 +863,7 @@ form#contactForm button:hover {
         display:none;
     }
     .logo{
-        margin-left: 20px !important;
+        margin-left: 30px !important;
         padding-left: 0 !important;
     }
   
