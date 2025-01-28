@@ -83,7 +83,8 @@ h1{
     z-index: 1000 !important;
     position: relative;
     color:inherit !important;
-    flex:1;
+    flex:1
+    margin-right:10px;
 }
 
 .intro-content {
