@@ -196,7 +196,7 @@ h2{
         #0c003d 100%
   
     );
-    z-index: 2;
+    z-index: 10;
     pointer-events: none;
 }
 .scroll{
