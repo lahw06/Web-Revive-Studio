@@ -837,14 +837,30 @@ form#contactForm button:hover {
         margin-left: 50px;
     }
 
+    
     .title {
-        font-size: 2rem;
-        width: 90%;
-        top:30%;
+        font-size: 1.8rem;
+        width: 80%;
+        top:40%;
+        left:33%;
         text-align: left;
         padding-top:0;
     }
+    h1 u{
+        font-size: 1.8em !important;
+    }
 
+    .logo{
+        margin-left: 45px !important;
+        padding-left: 0 !important;
+    }
+    h2 {
+        font-size: 1.2rem;
+        width: 70%;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 160px;;
+    }
     .logo{
         margin-left: 45px !important;
         padding-left: 0 !important;
