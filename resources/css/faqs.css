@@ -1,0 +1,231 @@
+.faq-main {
+    padding: 40px 20px;
+    margin-top: 800px;
+}
+
+.faq-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #0c003d;
+    padding: 20px 30px;
+    color: white;
+}
+
+.faq-header h2 {
+    font-size: 2.2em;
+    color: #00ffff;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.faq-item {
+    border-bottom: 1px solid #00ffff;
+    padding: 35px 10px 15px 10px;
+    background-color: #0c003d;
+    transition: background-color 0.3s ease;
+}
+
+.faq-item:hover {
+    background-color: #00ffff;
+    color: #0c003d !important;
+}
+
+.faq-item h3:hover {
+    background-color: #00ffff;
+    color: #0c003d !important;
+}
+.faq-item h3 {
+    font-size: 1.2em;
+    color: #00ffff;
+    cursor: pointer;
+    position: relative;
+    padding-right: 25px;
+    transition: color 0.3s ease;
+}
+
+.faq-item h3 span {
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 1.2em;
+}
+
+.faq-answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+}
+
+.faq-answer p {
+    padding-left: 10px;
+    margin-top: 10px;
+    color: #0c003d;
+}
+
+.faq-not-found {
+    text-align: center;
+    color: white;
+    margin: 50px 0 15px 0;
+}
+
+#button-container {
+    background-color: #0c003d;
+    max-width: 180px;
+    padding: 0px 0;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2em;
+    text-decoration: none;
+    transition: all 0.5s ease, transform 0.5s ease;
+    margin: 0 auto;
+    color: #00ffff;
+    border: 1px solid #00ffff;
+}
+
+#button-container:hover {
+    background-color: #00ffff;
+    color: #0c003d !important;
+    transform: scale(1.1);
+    box-shadow: 0 8px 16px rgba(0, 255, 255, 0.2);
+}
+
+.mission-link {
+    color: #00ffff;
+    text-decoration: none;
+    text-align: center;
+    padding:10px;
+}
+.mission-link:hover {
+    color: #0c003d;
+    text-decoration: none;
+    text-align: center;
+    padding:10px;
+}
+
+.faq-answer a {
+    text-decoration: none;
+    color: #00ffff;
+}
+
+.changea {
+    text-decoration: none;
+    color: #00ffff;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .faq-container {
+        padding: 10px 15px;
+        margin-top: 0px !important;
+        padding-top: 0px !important;
+    }
+
+    .faq-main {
+        margin-top: 0px;
+        padding-top: 0px;
+    }
+
+    .faq-header h2 {
+        font-size: 1.8em;
+        text-align: center;
+    }
+
+    .faq-item {
+        padding: 20px 5px 5px 5px;
+    }
+
+    .faq-item h2 {
+        font-size: 1.2em;
+    }
+
+    .faq-answer p {
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin: 0 auto;
+        max-width: 100%;
+        text-align: center;
+    }
+
+    #button-container {
+        max-width: 100%;
+    }
+
+    .header {
+        margin-bottom: 10px !important;
+    }
+
+    .faq-not-found {
+        display: none;
+    }
+
+    .no-phone {
+        display: none !important;
+    }
+}
+
+.scroll {
+    margin-top: 100px !important;
+}
+
+@media (max-width: 768px) {
+    .faq-container {
+        padding: 10px 15px;
+        margin-top: 0px !important;
+        padding-top: 0px !important;
+    }
+
+    h2{
+        display: none;
+    }
+    h1{
+        top:50% !important;
+    }
+    .faq-main {
+        margin-top: 770px;
+        padding-top: 0px;
+    }
+
+    .faq-header h3 {
+        font-size: 1.8em;
+        text-align: center;
+    }
+
+    .faq-item {
+        padding: 20px 5px 5px 5px;
+    }
+
+    .faq-item h3 {
+        font-size: 1.2em;
+    }
+
+    .faq-answer p {
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin: 0 auto;
+        max-width: 100%;
+        text-align: center;
+    }
+
+    #button-container {
+        max-width: 100%;
+        margin-top: 20px;
+    }
+
+    .header {
+        margin-bottom: 10px !important;
+    }
+
+    .faq-not-found {
+        display: none;
+    }
+
+    .no-phone {
+        display: none !important;
+    }
+}

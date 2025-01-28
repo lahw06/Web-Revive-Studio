@@ -1,0 +1,176 @@
+h1{
+    width:60% !important;
+    left:37% !important;
+}
+
+.privacy-policy {
+    padding: 40px;
+    background-color: #0c003d;
+    color: white;
+    max-width: 1200px;
+    margin: 0 auto;
+    border-radius: 8px;
+    border: 2px solid cyan;
+    line-height: 1.6;
+    margin-top: 800px;
+}
+
+.privacy-header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.terms-of-service {
+    padding: 40px;
+    background-color: #0c003d;
+    color: white;
+    max-width: 1200px;
+    margin: 0 auto;
+    border-radius: 8px;
+    border: 2px solid cyan;
+    line-height: 1.6;
+    margin-top: 800px;
+}
+
+.terms-header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.terms-header h3 {
+    font-size: 2.5rem;
+    color: cyan;
+    margin-bottom: 10px;
+}
+
+.terms-header p {
+    font-size: 1rem;
+}
+
+.terms-content {
+    margin-top: 20px;
+}
+.terms-content ul {
+    padding-left: 20px;
+}
+
+.privacy-header h3 {
+    font-size: 2.5rem;
+    color: cyan;
+    margin-bottom: 10px;
+}
+
+.privacy-header p {
+    font-size: 1rem;
+}
+
+.privacy-content {
+    margin-top: 20px;
+}
+
+.policy-section {
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px solid cyan;
+    border-radius: 8px;
+    background-color: rgba(12, 0, 61, 0.8);
+}
+
+.policy-section h4 {
+    font-size: 1.8rem;
+    color: cyan;
+    margin-bottom: 10px;
+}
+
+.policy-section p {
+    font-size: 1rem;
+    color: white;
+}
+.privacy-policy ul {
+    padding-left: 20px;
+}
+.sitemap {
+    padding: 60px;
+    background-color: #0c003d;
+    color: white;
+    border-radius: 12px;
+    border: 2px solid cyan;
+    max-width: 900px;
+    margin: 40px auto;
+    box-shadow: 0 4px 20px rgba(0, 255, 255, 0.4);
+    font-family: 'Arial', sans-serif;
+    margin-top: 800px;
+}
+
+.sitemap-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.sitemap-header h3 {
+    font-size: 2.5rem;
+    color: cyan;
+    margin-bottom: 10px;
+    text-shadow: 0 2px 5px rgba(0, 255, 255, 0.7);
+}
+
+.sitemap-header p {
+    font-size: 1.2rem;
+    color: white;
+}
+
+.main-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.main-links > li {
+    margin-bottom: 20px;
+    font-size: 1.6rem;
+}
+
+.main-links > li a {
+    color: cyan;
+    text-decoration: none;
+    transition: color 0.3s, transform 0.3s;
+}
+
+.main-links > li a:hover {
+    color: white;
+    transform: translateX(10px);
+}
+
+.sub-links {
+    list-style: disc;
+    padding-left: 40px;
+    margin-top: 10px;
+}
+
+.sub-links > li {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.sub-links > li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s, transform 0.3s;
+}
+
+.sub-links > li a:hover {
+    color: white;
+    transform: translateX(5px);
+}
+
+
+.scroll{
+    margin-top: 100px !important;
+}
+@media (max-width: 768px) {
+h1{
+    top:50% !important;
+}
+.sitemap{
+    width:90%;
+}
+}
