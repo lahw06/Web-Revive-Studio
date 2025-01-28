@@ -490,6 +490,9 @@ form#contactForm button:hover {
         flex-direction: column;
         justify-content: flex-start;
     }
+    .gradient-transition {
+        top:100px !important;
+    }
 
     .navbar ul {
         display:none;
