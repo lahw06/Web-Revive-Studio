@@ -863,7 +863,7 @@ form#contactForm button:hover {
         display:none;
     }
     .logo{
-        margin-left: 30px !important;
+        margin-left: 25px !important;
         padding-left: 0 !important;
     }
   
@@ -1106,6 +1106,9 @@ form#contactForm button:hover {
     
     .footer2-bottom a:hover {
         text-decoration: underline;
+    }
+    .gradient-transition {
+        top:200px !important;
     }
     
 }
