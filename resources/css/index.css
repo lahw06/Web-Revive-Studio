@@ -916,7 +916,7 @@ form#contactForm button:hover {
 
     .work-item {
         flex-direction: column;
-        gap: 0px;
+        gap: 0px !important;
         align-items: center;
     }
 
