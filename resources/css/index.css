@@ -839,17 +839,17 @@ form#contactForm button:hover {
 
     
     .title {
-        font-size: 1.9rem;
+        font-size: 2rem;
         width: 100%;
         top:40%;
         left:36%;
         text-align: left;
         padding-top:0;
-        z-index: 10 !important;
+        z-index: 100 !important;
     }
     h1 u{
-        font-size: 1.9em !important;
-        z-index: 10 !important;
+        font-size: 2em !important;
+        z-index: 100 !important;
     }
 
     .logo{
@@ -857,13 +857,13 @@ form#contactForm button:hover {
         padding-left: 0 !important;
     }
     h2 {
-        font-size: 1.5rem;
+        font-size: 1.6rem;
         width: 90%;
         text-align: left;
         margin-left: 20px;
         margin-top: 340px !important;
         display:none;
-        z-index: 10 !important;
+        z-index: 100 !important;
     }
     .logo{
         margin-left: 25px !important;
