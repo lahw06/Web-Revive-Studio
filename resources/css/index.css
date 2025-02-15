@@ -909,7 +909,7 @@ form#contactForm button:hover {
     }
 
     .our-work2 {
-        gap: 0px;
+        gap: 0px !important;
         margin-top:1500px;
         display: block;
     }
