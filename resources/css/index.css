@@ -858,7 +858,7 @@ form#contactForm button:hover {
     }
     h2 {
         font-size: 1.6rem;
-        width: 150%;
+        width: 150% !important;
         text-align: left;
         margin-left: 20px;
         margin-top: 340px !important;
