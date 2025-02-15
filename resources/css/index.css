@@ -845,9 +845,11 @@ form#contactForm button:hover {
         left:36%;
         text-align: left;
         padding-top:0;
+        z-index: 10 !important;
     }
     h1 u{
         font-size: 1.7em !important;
+        z-index: 10 !important;
     }
 
     .logo{
@@ -861,6 +863,7 @@ form#contactForm button:hover {
         margin-left: 20px;
         margin-top: 340px !important;
         display:none;
+        z-index: 10 !important;
     }
     .logo{
         margin-left: 25px !important;
