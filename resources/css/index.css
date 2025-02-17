@@ -962,6 +962,8 @@ form#contactForm button:hover {
 
     .work-text {
         width: 90%;
+        text-align: left;
+        margin-top: 100px;
     }
 
     footer {
