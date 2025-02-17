@@ -135,7 +135,20 @@ body{
 }
 
 
-
+.title-top{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 3rem; 
+}
+.title-top{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 3rem; 
+}
 .title {
     position: absolute;
     color: white;
@@ -170,12 +183,12 @@ h2{
     font-family: Arial, sans-serif;
     font-size: 1.6rem;
     text-align: left;
-    width:1250px;
-    padding: 40px 0px;
+    width:1300px;
+    padding: 40px 80px;
     border-radius: 10px;
     z-index: 3;
-    top: 440px;
-    left: 50px;
+    top: 600px;
+	left:50px;
 }
 
 .gradient-transition {
