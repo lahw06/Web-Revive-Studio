@@ -1118,7 +1118,7 @@ form#contactForm button:hover {
         padding-right: 60px;
     }
 }
-@media (max-width:1800px){
+@media (max-width:1600px){
     .footer-container {
         display: flex;
         flex-direction: column;
