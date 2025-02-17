@@ -138,9 +138,6 @@ body{
 
 .title {
     position: absolute;
-    top: 37%;
-    left: 40%;
-    transform: translate(-50%, -20%);
     color: white;
     font-family: Arial, sans-serif;
     font-size: 4.5rem;
@@ -162,17 +159,14 @@ body{
 
 .title u{
     text-decoration-color:#00ffff;
-    font-size: 5.2rem;
+    font-size: 4.5rem;
 }
 h2{
     position: absolute;
-    top: 54.5%;
-    left: 43%;
-    transform: translate(-50%, -20%);
     color: #00ffff;
     font-family: Arial, sans-serif;
     font-size: 1.6rem;
-    text-align: left;
+    text-align: center;
     width:1250px;
     padding: 40px 0px;
     border-radius: 10px;
