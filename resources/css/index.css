@@ -1123,7 +1123,7 @@ form#contactForm button:hover {
     }
 }
 @media (max-width:1800px){
-    .footer2-container {
+    .footer-container {
         display: flex;
         flex-direction: column;
         align-items: left;
