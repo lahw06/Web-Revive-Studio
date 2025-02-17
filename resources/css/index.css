@@ -1161,6 +1161,10 @@ form#contactForm button:hover {
         padding-left: 30px;
         padding-right: 60px;
     }
+    .work-image{
+        box-shadow: none;
+        margin-top: 0;
+    }
 }
 
 @media (max-width:1750px){
