@@ -1122,6 +1122,11 @@ form#contactForm button:hover {
         padding-left: 30px;
     }
 }
+    @media (max-width:1650px){
+        a.quote-button{
+            display: none;
+        }
+}
 @media  (min-width:768px) and (max-width: 1440px) {
     .title {
         font-size: 3.5rem;
