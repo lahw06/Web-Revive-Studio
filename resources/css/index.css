@@ -1328,6 +1328,30 @@ form#contactForm button:hover {
     .scroll div span {
         width: 250px;
     }
+    .our-work2 {
+        gap: 0px !important;
+        margin-top:1600px;
+        display: block;
+    }
+    .our-work{
+        display:none;
+    }
+
+    .work-item {
+        flex-direction: column;
+        gap: 0px !important;
+        align-items: center;
+        justify-content: flex-start;
+    }
+
+    .work-image {
+        width: 90%;
+        height: auto;
+    }
+
+    .work-text {
+        width: 90%;
+    }
 }
 
 /**/
