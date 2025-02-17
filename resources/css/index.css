@@ -292,7 +292,7 @@ h2{
 
 
 .about-us {
-    height: 100vh;
+    height: auto;
     width: 100%;
     display: flex;
     align-items: center;
