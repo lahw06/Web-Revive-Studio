@@ -1119,15 +1119,8 @@ form#contactForm button:hover {
         padding-right: 60px;
     }
 }
-@media (max-width:1600px){
-    .footer-container {
-        display: flex;
-        flex-direction: column;
-        align-items: left;
-        gap: 20px;
-    }
-}
-@media (max-width:1650px){
+
+@media (max-width:1750px){
     a.quote-button{
         display: none;
     }
