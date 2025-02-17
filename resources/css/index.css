@@ -1275,6 +1275,9 @@ form#contactForm button:hover {
     .main-section {
         top: 900px;
     }
+    div .what-we-do.visible{
+        margin-top: 50px;
+    }
 
     .row {
         gap: 100px;
