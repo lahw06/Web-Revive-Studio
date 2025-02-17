@@ -507,7 +507,7 @@ h2{
     justify-content: space-between;
     max-width: 1900px;
     margin: 0 auto;
-    margin-top:10px;
+    margin-top:100px;
 }
 
 .our-work {
@@ -1272,7 +1272,7 @@ form#contactForm button:hover {
         font-size: 1.4rem;
         width: 950px;
         padding: 30px 60px;
-        top:550px;
+        top:530px;
     }
 
     .navbar {
@@ -1337,30 +1337,10 @@ form#contactForm button:hover {
     .step p {
         font-size: 0.9rem;
     }
-    .our-work{
-        margin-top: 0;
-        top:50px;
-    }
-
-    .work-image {
-        height: 600px;
-    }
-
-    .work-text h3 {
-        font-size: 1.8rem;
-    }
-
-    .work-text h4 {
-        font-size: 1rem;
-    }
-
-    .work-text p {
-        font-size: 0.9rem;
-    }
-
+    
     .scroll {
         top: 0px;
-        height: 150px;
+        height: 200px;
     }
 
     .scroll div span {
