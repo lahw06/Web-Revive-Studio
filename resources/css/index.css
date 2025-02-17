@@ -1295,6 +1295,10 @@ form#contactForm button:hover {
         font-size: 0.9rem;
     }
 
+    .about-us{
+        margin-top: 200px;
+    }
+
     .step {
         width: 200px;
         height: 200px;
@@ -1329,7 +1333,7 @@ form#contactForm button:hover {
     }
 
     .scroll {
-        top: 1200px;
+        top: 1000px;
         height: 150px;
     }
 
