@@ -1146,6 +1146,14 @@ form#contactForm button:hover {
     }
         
 }
+@media (max-width:1010px){
+    .navbar li a {
+        font-size: 0.9rem;
+    }
+    .navbar ul {
+        gap: 20px;
+    }
+}
 
 @media (max-width:1100px){
     div .what-we-do{
@@ -1186,6 +1194,7 @@ form#contactForm button:hover {
     h2 {
         font-size: 1.4rem;
         width: 950px;
+        padding: 30px 60px;
     }
 
     .navbar {
