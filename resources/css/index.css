@@ -1166,6 +1166,9 @@ form#contactForm button:hover {
         box-shadow: none;
         margin-top: 0;
     }
+    .work-text{
+        margin-top: 0;
+    }
 }
 
 @media (max-width:1750px){
@@ -1303,6 +1306,10 @@ form#contactForm button:hover {
 
     .step p {
         font-size: 0.9rem;
+    }
+    .our-work{
+        margin-top: 0;
+        top:50px;
     }
 
     .work-image {
