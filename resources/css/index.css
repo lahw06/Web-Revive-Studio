@@ -1272,6 +1272,7 @@ form#contactForm button:hover {
         font-size: 1.4rem;
         width: 950px;
         padding: 30px 60px;
+        top:550px;
     }
 
     .navbar {
