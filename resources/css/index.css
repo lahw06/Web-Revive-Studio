@@ -1116,6 +1116,12 @@ form#contactForm button:hover {
     }
     
 }
+@media (max-width:1750px){
+    navbar ul {
+        gap: 20px;
+        padding-left: 30px;
+    }
+}
 @media  (max-width: 1440px) {
     .title {
         font-size: 3.5rem;
@@ -1138,8 +1144,8 @@ form#contactForm button:hover {
     }
 
     .navbar ul {
-        gap: 50px;
-        padding-left: 50px;
+        gap: 20px;
+        padding-left: 30px;
     }
 
     .navbar li a {
