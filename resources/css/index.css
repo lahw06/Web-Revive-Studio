@@ -1322,7 +1322,7 @@ form#contactForm button:hover {
     }
 
     .scroll {
-        margin-top: 1200px;
+        top: 1200px;
         height: 150px;
     }
 
