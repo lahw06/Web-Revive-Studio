@@ -1116,7 +1116,7 @@ form#contactForm button:hover {
     }
     
 }
-@media screen and (max-width: 1440px) {
+@media  (max-width: 1440px) {
     .title {
         font-size: 3.5rem;
         width: 1000px;
