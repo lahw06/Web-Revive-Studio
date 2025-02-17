@@ -1391,6 +1391,9 @@ form#contactForm button:hover {
         width: auto;
         height: 100%;
     }
+    footer img{
+        display:none;
+    }
 }
 
 /**/
