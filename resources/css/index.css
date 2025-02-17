@@ -1111,7 +1111,7 @@ form#contactForm button:hover {
     
 }
 @media (min-width: 1440px) and (max-width:1750px){
-    navbar ul {
+    .navbar ul {
         gap: 20px;
         padding-left: 30px;
         padding-right: 60px;
@@ -1129,9 +1129,9 @@ form#contactForm button:hover {
     a.quote-button{
         display: none;
     }
-    navbar ul {
+    .navbar ul {
         gap: 20px;
-        padding-right: 30px;
+        padding-right: 60px;
     }
         
 }
