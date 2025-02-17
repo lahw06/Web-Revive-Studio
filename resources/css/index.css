@@ -1130,16 +1130,35 @@ form#contactForm button:hover {
         gap: 20px;
     }
 }
-    @media (max-width:1650px){
-        a.quote-button{
-            display: none;
-        }
-        navbar ul {
-            gap: 20px;
-            padding-right: 30px;
-        }
+@media (max-width:1650px){
+    a.quote-button{
+        display: none;
+    }
+    navbar ul {
+        gap: 20px;
+        padding-right: 30px;
+    }
         
 }
+
+@media (max-width:1100px){
+    div .what-we-do{
+        padding-top:0;
+        margin-top: 0;
+    }
+
+    .row {
+        flex-direction: column;
+        gap: 40px;
+        align-items: center;
+    }
+
+    .service {
+        max-width: 90%;
+        text-align: center;
+    }
+}
+
 @media  (min-width:768px) and (max-width: 1440px) {
     .title {
         font-size: 3.5rem;
