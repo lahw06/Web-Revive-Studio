@@ -156,6 +156,7 @@ body{
     z-index: 3;
     width:1300px;
     top:500px;
+    white-space: pre-wrap;
 }
 
 .title u{
