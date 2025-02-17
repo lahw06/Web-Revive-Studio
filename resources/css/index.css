@@ -1122,6 +1122,14 @@ form#contactForm button:hover {
         padding-left: 30px;
     }
 }
+@media (max-width:1800px){
+    .footer2-container {
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+        gap: 20px;
+    }
+}
     @media (max-width:1650px){
         a.quote-button{
             display: none;
