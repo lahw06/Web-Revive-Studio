@@ -1116,4 +1116,105 @@ form#contactForm button:hover {
     }
     
 }
+@media screen and (max-width: 1440px) {
+    .title {
+        font-size: 3.5rem;
+        width: 1000px;
+        padding: 30px 60px;
+    }
+
+    .title u {
+        font-size: 4.2rem;
+    }
+
+    h2 {
+        font-size: 1.4rem;
+        width: 950px;
+    }
+
+    .navbar {
+        width: 90%;
+        top: 40px;
+    }
+
+    .navbar ul {
+        gap: 50px;
+        padding-left: 50px;
+    }
+
+    .navbar li a {
+        font-size: 1rem;
+    }
+
+    .navbar .quote-button {
+        font-size: 1.3rem;
+        padding: 6px 12px;
+        padding-right: 40px;
+    }
+
+    .container .card {
+        width: 90%;
+        height: 70px;
+    }
+
+    .gradient-transition {
+        height: 300px;
+        top: 500px;
+    }
+
+    .main-section {
+        top: 900px;
+    }
+
+    .row {
+        gap: 100px;
+    }
+
+    .service h4 {
+        font-size: 1.2rem;
+    }
+
+    .service h5 {
+        font-size: 0.9rem;
+    }
+
+    .step {
+        width: 200px;
+        height: 200px;
+    }
+
+    .step .step-title {
+        font-size: 1.2rem;
+    }
+
+    .step p {
+        font-size: 0.9rem;
+    }
+
+    .work-image {
+        height: 600px;
+    }
+
+    .work-text h3 {
+        font-size: 1.8rem;
+    }
+
+    .work-text h4 {
+        font-size: 1rem;
+    }
+
+    .work-text p {
+        font-size: 0.9rem;
+    }
+
+    .scroll {
+        margin-top: 1000px;
+        height: 150px;
+    }
+
+    .scroll div span {
+        width: 250px;
+    }
+}
+
 /**/
