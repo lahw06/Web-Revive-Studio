@@ -141,7 +141,7 @@ body{
     color: white;
     font-family: Arial, sans-serif;
     font-size: 4.5rem;
-    text-align: center;
+    text-align: left;
     background: radial-gradient(
         circle,
         rgba(4, 0, 21, 0.8) 0%,
@@ -155,7 +155,8 @@ body{
     border-radius: 10px;
     z-index: 3;
     width:1300px;
-    top:500px;
+    top:400px;
+    left:50px;
     white-space: pre-wrap;
 }
 
@@ -168,11 +169,13 @@ h2{
     color: #00ffff;
     font-family: Arial, sans-serif;
     font-size: 1.6rem;
-    text-align: center;
+    text-align: left;
     width:1250px;
     padding: 40px 0px;
     border-radius: 10px;
     z-index: 3;
+    top: 440px;
+    left: 50px;
 }
 
 .gradient-transition {
