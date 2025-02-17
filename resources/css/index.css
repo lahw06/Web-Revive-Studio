@@ -1370,9 +1370,13 @@ form#contactForm button:hover {
     .work-text {
         width: auto;
         height: 100%;
+        margin-bottom: 200px;
     }
     footer img{
         display:none;
+    }
+    .footer-contact{
+        margin-left:0;
     }
 }
 
