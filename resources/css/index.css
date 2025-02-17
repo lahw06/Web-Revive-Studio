@@ -524,7 +524,7 @@ h2{
 }
 
 .work-image {
-    flex: 1;
+    flex: 2;
     max-width: 1000px;
     border-radius: 10px;
     overflow: hidden;
