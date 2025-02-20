@@ -1416,7 +1416,7 @@ form#contactForm button:hover {
     .work-text {
         text-align: center;
     }
-    navbar ul {
+    .navbar ul {
         gap: 30px;
         padding-left: 0px;
         padding-right: 40px;
