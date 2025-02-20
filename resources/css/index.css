@@ -870,16 +870,16 @@ form#contactForm button:hover {
 
     
     .title {
-        font-size: 1.5rem;
+        font-size: 1.2rem !important;
         width: 100%;
-        top:100px;
-        left:50px;
+        top:250px;
+        left:15px;
         text-align: left;
         padding-top:0;
         z-index: 100 !important;
     }
     h1 u{
-        font-size: 1.5em !important;
+        font-size: 1.2em !important;
         z-index: 100 !important;
     }
 
@@ -892,7 +892,7 @@ form#contactForm button:hover {
         width: 150% !important;
         text-align: left;
         margin-left: 50px;
-        margin-top: 150px !important;
+        margin-top: 300px !important;
         display:none;
         z-index: 100 !important;
     }
