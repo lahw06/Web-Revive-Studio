@@ -1356,10 +1356,10 @@ form#contactForm button:hover {
 }
 @media (max-width:1010px){
     .navbar li a {
-        font-size: 0.8rem;
+        font-size: 0.8rem !important;
     }
     .navbar ul {
-        gap: 15px;
+        gap: 15px !important;
     }
 }
 @media (max-width: 1024px) {
