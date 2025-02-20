@@ -1372,7 +1372,9 @@ form#contactForm button:hover {
         text-align:left;
     }
     
-
+    .footer-container{
+        margin-right:200px;
+    }
 
 
     footer img{
