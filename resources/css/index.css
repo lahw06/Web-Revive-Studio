@@ -871,7 +871,7 @@ form#contactForm button:hover {
     
     .title {
         font-size: 1rem !important;
-        width: 60%;
+        width: 60vw;
         top:250px;
         left:50px;
         text-align: left;
