@@ -1416,6 +1416,16 @@ form#contactForm button:hover {
     .work-text {
         text-align: center;
     }
+    navbar ul {
+        gap: 30px;
+        padding-left: 0px;
+        padding-right: 40px;
+
+    }
+
+    .navbar li a {
+        font-size: 0.9rem;
+    }
 }
 
 @media (max-width: 768px) {
@@ -1431,6 +1441,9 @@ form#contactForm button:hover {
     }
     .work-text p {
         font-size: 0.95rem;
+    }
+    .nav-bar{
+        max-width:90%;
     }
 }
 
