@@ -870,13 +870,13 @@ form#contactForm button:hover {
 
     
     .title {
-        font-size: 1rem !important;
-        width: 60vw;
+        font-size: 0.9rem !important;
+
         width:80% !important;
         top:250px;
-        left:50px;
+
         text-align: center;
-        padding:0;
+        padding:0 !important;
         z-index: 100 !important;
     }
     h1 u{
