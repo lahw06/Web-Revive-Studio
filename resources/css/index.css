@@ -1367,9 +1367,8 @@ form#contactForm button:hover {
     .work-text {
         width: auto;
         height: 100%;
-        margin-bottom: 200px;
-        margin-top:200px;
-        text-align:left;
+        margin: 10px 200px 200px 200px; 
+        text-align: left;
     }
     
     .footer-container{
