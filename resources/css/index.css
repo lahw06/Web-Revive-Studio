@@ -872,9 +872,10 @@ form#contactForm button:hover {
     .title {
         font-size: 1.6rem !important;
         width: 60%;
-        top:400px;
+        top: 200px;
         text-align: left;
-        padding-top:0;
+        padding-top: 0;
+        padding-left: 0;
     }
     .logo{
         margin-left: 30px !important;
