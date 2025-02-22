@@ -762,3 +762,14 @@ h2{
     }
 }
 
+@media (max-width: 1800){
+    div .intro-content h4{
+        font-size: 1.8em;
+    }
+    .why-choose-us h5{
+        font-family: 1em;
+    }
+    .why-choose-us p{
+        font-family: 0.8em;
+    }
+}
