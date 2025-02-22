@@ -870,33 +870,29 @@ form#contactForm button:hover {
 
     
     .title {
-        font-size: 0.9rem !important;
-        width:80% !important;
-        top:250px;
-        text-align: center;
-        padding:0 !important;
-        z-index: 100 !important;
-        display: block !important;
+        font-size: 2rem;
+        width: 40%;
+        top:35%;
+        text-align: left;
+        padding-top:0;
     }
-    h1 u{
-        font-size: 0.9em !important;
-        width:80% !important;
-        z-index: 100 !important;
-        display: block !important;
-    }
-
     .logo{
-        margin-left: 0px !important;
+        margin-left: 30px !important;
         padding-left: 0 !important;
     }
+
+    h1 u{
+        font-size: 1.8em !important;
+        
+    }
+
     h2 {
-        font-size: 1.2rem;
-        width: 150% !important;
+        font-size: 1.8em;
+        width: 70%;
         text-align: left;
-        margin-left: 50px;
-        margin-top: 300px !important;
-        display:none;
-        z-index: 100 !important;
+        margin-left: 15px;
+        margin-top: 0px;;
+        padding-top: 0;
     }
     .logo{
         margin-left: 25px !important;
