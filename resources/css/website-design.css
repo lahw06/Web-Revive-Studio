@@ -773,3 +773,86 @@ h2{
         font-family: 0.8em;
     }
 }
+@media (max-width: 1060px){
+    .why-choose-us2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border: 2px solid cyan;
+        border-radius: 8px;
+        width: 85%;
+        margin: 20px auto;
+        padding: 20px;
+        color: white;
+        z-index: 4;
+        gap: 20px;
+        margin-top: 200px;
+        margin-bottom: 100px;
+    }
+    
+    .why-choose-us2 h4 {
+        font-size: 2rem;
+        color: white;
+        text-align: center;
+        margin-top: 10px;
+    }
+    
+    .why-choose-us2-content {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        width: 100%;
+    }
+    
+    .why-column2 {
+        padding: 20px;
+        border-radius: 8px;
+        text-align: center;
+    }
+    
+    .why-column2 h5 {
+        font-size: 1.3rem;
+        color: cyan;
+        margin-bottom: 10px;
+    }
+    
+    .why-column2 p {
+        font-size: 1rem;
+        color: white;
+        line-height: 1.6;
+    }
+    
+    
+
+    
+    .web-design-intro2{
+        display: block;
+    }
+    .intro-image2{
+        display: block;
+    }
+    .intro-content2{
+        display: block;
+    }
+    .call-to-action2{
+        display: block;
+    }
+    .web-design-intro{
+        display: none;
+    }
+    .intro-image{
+        display: none;
+    }
+    .intro-content{
+        display: none;
+    }
+    .call-to-action{
+        display: none;
+    }
+    .why-choose-us{
+        display: none;
+    }
+    .why-choose-us2{
+        display:block;
+    }
+}
