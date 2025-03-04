@@ -10,6 +10,7 @@ upper{
       overflow: hidden;
       position: relative;
       z-index: 10;
+      
     }
     #hero-2274 .cs-container {
       width: 100%;
@@ -141,6 +142,9 @@ upper{
     }
     .gradient-transition {
         top: 400px;
+    }
+    #hero-2274{
+      top:180px;
     }
 }
 
