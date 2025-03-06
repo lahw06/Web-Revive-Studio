@@ -196,51 +196,6 @@ body{
     gap: 20px;
     position: relative;
 }
-.container2{
-    display: flex;
-    justify-content: center;
-    align-items: center ;
-    gap:50px;
-    flex-wrap: wrap;
-}
-.container2 .card2{
-    width:320px;
-    height:4000px;
-    position: absolute;
-    top: 2500px;
-    left: 5%;
-    background: rgba(12, 0, 61, 1);
-    border-radius: 20px;
-    overflow:hidden;
-    z-index:1;
-}
-
-
-.container2 .card2::before{
-    content:'';
-    position: absolute; 
-    top: var(--y);
-    left: var(--x);
-    transform: translate(-50%, -50%);
-    background: radial-gradient(var(--clr), transparent, transparent);
-    width:600px;
-    height:6000px;
-    opacity: 0;
-    transition:0.5s, top 0s, left 0s;
-    z-index: 0;
-}
-.container2 .card2:hover::before{
-    opacity:1;
-}
-.container2 .card2::after{
-    content: '';
-    position: absolute;
-    inset:2px;
-    border-radius: 18px;
-    background: rgba(12, 0, 61, 0.75);
-    z-index: 0;
-}
-
 
 .step {
     background-color: #120255;
