@@ -34,4 +34,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://www.webrevivestudio.com/sitemap.xml
+Sitemap: https://www.webrevivestudio.co.uk/sitemap.xml
