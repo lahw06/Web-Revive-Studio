@@ -1,0 +1,97 @@
+body{
+    background-color: #0c003d;
+}
+main{
+    margin-bottom: 100px !important;
+}
+
+.blog-post {
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.post-title {
+    font-size: clamp(1.5rem, 4vw, 2.5rem);
+    color: #0ff;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.post-meta {
+    font-size: clamp(0.9rem, 2vw, 1rem);
+    color: #fff;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.post-image {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.post-image img {
+    width: 100%;
+    max-width: 40rem;
+    height: auto;
+    border-radius: 0.5rem;
+}
+
+figcaption {
+    font-size: clamp(0.8rem, 2vw, 1rem);
+    color: rgb(0, 90, 90);
+    margin-top: 0.5rem;
+}
+
+.post-content {
+    font-size: clamp(0.8rem, 2.2vw, 1.2rem);
+    line-height: 1.8;
+    color: #fff;
+}
+
+.post-content h2 {
+    font-size: clamp(1.2rem, 3vw, 2rem);
+    margin-top: 2rem;
+    color: #0ff;
+}
+
+.post-content p {
+    margin-bottom: 1.5rem;
+}
+
+ul, ol {
+    margin-bottom: 1.5rem;
+    padding-left: 2rem;
+}
+
+blockquote {
+    font-size: clamp(1.3rem, 3vw, 1.5rem);
+    font-style: italic;
+    color: #0ff;
+    border-left: 4px solid #0ff;
+    padding-left: 1rem;
+    margin: 1.5rem 0;
+}
+
+.post-navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+}
+
+.post-navigation a {
+    font-size: clamp(1rem, 2.5vw, 1.2rem);
+    color: #0ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.post-navigation a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .blog-post {
+        padding: 1.5rem;
+    }
+}
