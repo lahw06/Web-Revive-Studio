@@ -94,4 +94,7 @@ blockquote {
     .blog-post {
         padding: 1.5rem;
     }
+    h2{
+        margin-left:0;
+    }
 }
