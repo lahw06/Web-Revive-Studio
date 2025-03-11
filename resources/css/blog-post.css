@@ -96,9 +96,14 @@ blockquote {
         margin-top:600px;
     }
 }
-@media only screen and (max-width: 54rem) {
+@media only screen and (max-width: 64rem) {
     .blog-post{
         margin-top:700px;
+    }
+}
+@media only screen and (max-width: 54.1rem) {
+    .blog-post{
+        margin-top:720px;
     }
 }
 
@@ -108,5 +113,6 @@ blockquote {
     }
     h2{
         margin-left:0 !important;
+        width:100% !important;
     }
 }
