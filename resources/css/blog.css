@@ -8,7 +8,7 @@
     }
     #blog-986 .cs-container {
         width: 100%;
-        max-width: 36.5rem;
+        max-width: 100.5rem !important;
         margin: auto;
         display: flex;
         flex-direction: column;
@@ -35,7 +35,7 @@
         padding: 0;
         display: flex;
         flex-direction: column;
-        gap: clamp(1rem, 9vw, 8rem);
+        gap: clamp(1rem, 5vw, 5rem);
         position: relative;
     }
     #blog-986 .cs-item {
@@ -47,18 +47,22 @@
         align-items: center;
         position: relative;
         border-radius: 10px;
+        transition: transform 0.9s;
         
     }
     #blog-986 .cs-item:hover {
         cursor: pointer;
-        box-shadow: 0 4px 20px rgba(0, 255, 255, 0.4);
+        box-shadow: 0 4px 20px rgba(0, 255, 255, 1);
+        border-radius: 10px !important;
+        transform: scale(1.05);
     }
     #blog-986 .cs-item:hover .cs-info:before {
         opacity: 1;
         background-color: var(--primary);
+        border-radius: 10px !important;
     }
     #blog-986 .cs-item:hover .cs-picture img {
-        transform: scale(1.05);
+        border-radius: 10px !important;
     }
     #blog-986 .cs-item:hover .cs-date {
         color: #fff;
@@ -71,7 +75,7 @@
     }
     #blog-986 .cs-picture {
         width: 100%;
-        height: 36rem;
+        height: 40rem;
         aspect-ratio: 0.68333333;
         overflow: hidden;
         display: block;
@@ -84,14 +88,21 @@
         object-fit: cover;
         object-position: top;
         position: absolute;
+        border-radius: 10px !important;
         top: 0;
         left: 0;
         z-index: -1;
-        transition: transform 0.9s;
+        overflow: hidden;
+    }
+    #blog-986 .cs-picture img:hover {
+        border-radius: 10px !important;
+    }
+    img:hover {
+        border-radius: 10px !important;
     }
     #blog-986 .cs-info {
-        width: 83%;
-        max-width: 26.25rem;
+        width: 100%;
+        max-width: 66.25rem;
         padding: clamp(1rem, 2vw, 1.5rem);
         box-sizing: border-box;
         display: flex;
@@ -100,26 +111,32 @@
         position: absolute;
         bottom: 0;
         right: 0;
+        border-radius: 10px;
         z-index: 10;
     }
     #blog-986 .cs-info:before {
         content: "";
         width: 100%;
         height: 100%;
-        background: rgba(0, 95, 95, 0.726);
-        opacity: 0.8;
+        background: rgb(0, 148, 148);
+        opacity: 0.7;
         position: absolute;
         display: block;
         top: 0;
         left: 0;
         z-index: -1;
+        border-radius: 0px 0px 10px 10px;
         transition:
             background-color 0.3s,
             opacity 0.3s;
     }
+    #blog-986 .cs-info:hover {
+        opacity:0;
+    }
+
     #blog-986 .cs-date {
-        font-size: 1rem;
-        line-height: 1.2em;
+        font-size: clamp(0.8rem, 2vw, 1.2rem);
+        line-height: 1.0em;
         font-weight: 700;
         margin: 0 0 1.25rem 0;
         color: #fff;
@@ -129,6 +146,7 @@
         gap: 0.5rem;
         transition: color 0.3s;
     }
+
     #blog-986 .cs-icon {
         width: 1.25rem;
         height: auto;
@@ -136,22 +154,22 @@
         color: #fff;
     }
     #blog-986 .cs-h3 {
-        font-size: 1.25rem;
-        line-height: 1.2em;
+        font-size: clamp(0.9rem, 2.2vw, 1.45rem);
+        line-height: 1.0em;
         font-weight: 700;
         margin: 0 0 0.75rem 0;
         color: #fff;
         display: block;
     }
     #blog-986 .cs-desc {
-        font-size: 1rem;
-        line-height: 1.5em;
+        font-size: clamp(0.8rem, 2vw, 1.2rem);
+        line-height: 1.2em;
         margin: 0 0 1.25rem 0;
         color: #f7f7f7;
         display: block;
     }
     #blog-986 .cs-link {
-        font-size: 1rem;
+        font-size: clamp(0.8rem, 2vw, 1.2rem);
         line-height: 1.2em;
         font-weight: 700;
         text-decoration: none;
@@ -203,14 +221,31 @@
         flex-direction: row;
     }
 }
-@media only screen and (max-width: 64rem) {
+
+
+
+@media only screen and (max-width: 106.25rem) {
     #blog-986 {
-        margin-top: 600px !important;
+        margin-top: 450px !important;
     }
 }
-
-@media only screen and (max-width: 84.375rem) {
+@media only screen and (max-width: 86.25rem) {
+    #blog-986 {
+        margin-top: 500px !important;
+    }
+}
+@media only screen and (max-width: 64rem) {
+    #blog-986 {
+        margin-top: 620px !important;
+    }
     #blog-986 .cs-container {
-        padding:20px;
+        max-width: 80rem;
+        margin-top:200px;
+        padding:40px !important;
+    }
+}
+@media only screen and (max-width: 53.75rem) {
+    #blog-986 {
+        margin-top: 700px !important;
     }
 }
