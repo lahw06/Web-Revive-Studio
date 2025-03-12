@@ -1,92 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://www.webrevivestudio.co.uk/</loc>
-  <lastmod>2025-03-07T18:55:15+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://www.webrevivestudio.co.uk/</loc>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.webrevivestudio.co.uk/website-design</loc>
-  <lastmod>2025-03-07T18:55:15+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.webrevivestudio.co.uk/website-design</loc>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.webrevivestudio.co.uk/branding</loc>
-  <lastmod>2025-03-07T18:55:15+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.webrevivestudio.co.uk/branding</loc>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.webrevivestudio.co.uk/pricing</loc>
-  <lastmod>2025-03-07T18:55:15+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.webrevivestudio.co.uk/pricing</loc>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.webrevivestudio.co.uk/about-us</loc>
-  <lastmod>2025-03-07T18:55:15+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.webrevivestudio.co.uk/about-us</loc>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.webrevivestudio.co.uk/blog</loc>
-  <lastmod>2025-03-07T18:55:15+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.webrevivestudio.co.uk/blog</loc>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.webrevivestudio.co.uk/contact-us</loc>
-  <lastmod>2025-03-07T18:55:15+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.webrevivestudio.co.uk/contact-us</loc>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.webrevivestudio.co.uk/website-design/seo</loc>
-  <lastmod>2025-03-07T18:55:15+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.webrevivestudio.co.uk/website-design/seo</loc>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.webrevivestudio.co.uk/website-design/ux-ui</loc>
-  <lastmod>2025-03-07T18:55:15+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.webrevivestudio.co.uk/website-design/ux-ui</loc>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.webrevivestudio.co.uk/website-design/trade-website</loc>
-  <lastmod>2025-03-07T18:55:15+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.webrevivestudio.co.uk/website-design/trade-website</loc>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.webrevivestudio.co.uk/website-design/e-commerce-website</loc>
-  <lastmod>2025-03-07T18:55:15+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.webrevivestudio.co.uk/website-design/e-commerce-website</loc>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.webrevivestudio.co.uk/sitemap</loc>
-  <lastmod>2025-03-07T18:55:15+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.webrevivestudio.co.uk/sitemap</loc>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.webrevivestudio.co.uk/faqs</loc>
-  <lastmod>2025-03-07T18:55:15+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.webrevivestudio.co.uk/faqs</loc>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.webrevivestudio.co.uk/tcs</loc>
-  <lastmod>2025-03-07T18:55:15+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.webrevivestudio.co.uk/tcs</loc>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.webrevivestudio.co.uk/privacypolicy</loc>
-  <lastmod>2025-03-07T18:55:15+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.webrevivestudio.co.uk/privacypolicy</loc>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.webrevivestudio.co.uk/website-design/website-maintenance</loc>
-  <lastmod>2025-03-07T18:55:15+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://www.webrevivestudio.co.uk/website-design/website-maintenance</loc>
+<priority>0.64</priority>
 </url>
-
-
+<url>
+<loc>https://www.webrevivestudio.co.uk/portfolio/portfolio</loc>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://www.webrevivestudio.co.uk/blog/1</loc>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://www.webrevivestudio.co.uk/blog/2</loc>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://www.webrevivestudio.co.uk/blog/3</loc>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://www.webrevivestudio.co.uk/comingsoon</loc>
+<priority>0.51</priority>
+</url>
 </urlset>
